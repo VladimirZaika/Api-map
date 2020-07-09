@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    color: #e3e3e3;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}
+
+.section__map {
+    width: 720px;
+    margin: 200px auto 0;
+}
+
+.map {
+    width: 100%;
+    height: 400px;
+}
+
